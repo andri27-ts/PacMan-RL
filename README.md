@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-In order to run the notebook you need to install tensorflow and gym(incluse the atari games).
+In order to run the notebook you need to install tensorflow and gym (included the atari games).
 
 ```
 $ pip install tensorflow
@@ -18,7 +18,7 @@ $ pip install 'gym[all]'
 
 ### Installing
 
-Next, install git if you don't have already it and run the following commands on your terminal
+Next, install [git](https://git-scm.com/) if you don't have already it and run the following commands on your terminal
 
 ```
 $ cd $HOME  # or any other development directory you prefer
