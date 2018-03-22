@@ -25,3 +25,13 @@ $ cd $HOME  # or any other development directory you prefer
 $ git clone https://github.com/andri27-ts/PacManRL.git
 $ cd PacManRL
 ```
+
+## Tensorboard
+
+To visualize the loss function and the histograms of the NN layers using Tensorboard, run on your terminal
+
+```
+$ cd $HOME  # or any other development directory you prefer
+$ cd PacManRL
+$ tensorboard --logdir tf_logs/
+```
