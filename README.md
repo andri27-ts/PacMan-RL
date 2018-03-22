@@ -22,6 +22,6 @@ Next, install git if you don't have already it and run the following commands on
 
 ```
 $ cd $HOME  # or any other development directory you prefer
-$ git clone 
-$ cd 
+$ git clone https://github.com/andri27-ts/PacManRL.git
+$ cd PacManRL
 ```
